@@ -6,3 +6,6 @@ Was dissapointed in my performance, which led to the creation of this repo.
 5/1/17 - Defcon 2016 - xkcd
 Warming up by going through an easy challenge from last year. Planning to work
 my way through parts of https://pastebin.com/uyifxgPu
+Defcon 2015 - r0pbaby
+Another warmup challenge. Learned the dlopen doesn't return the address I
+wanted
