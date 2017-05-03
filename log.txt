@@ -9,3 +9,9 @@ my way through parts of https://pastebin.com/uyifxgPu
 Defcon 2015 - r0pbaby
 Another warmup challenge. Learned the dlopen doesn't return the address I
 wanted
+
+5/3/17 - ebctf2013 - bf
+Cool challenge, intially made a wrong assumption about how to do it but got it
+easily in the end.
+csaw2016 - moms spaghetti
+Started working on it, haven't solved yet.
