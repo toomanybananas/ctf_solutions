@@ -19,3 +19,8 @@ Started working on it, haven't solved yet.
 5/4/2017 - defcon 2016 - banker
 tainted because I looked at the writeup before, so I decided to skip
 bruteforcing the password and just did the ROP part
+
+6/30/2017 - codegate 2017 - floppy
+Took a huge break because of vacations + work + laziness. This was fun because
+it was a simple bug, but a bit difficult to exploit. A nice way to get back to
+pwning.
