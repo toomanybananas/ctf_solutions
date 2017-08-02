@@ -24,3 +24,7 @@ bruteforcing the password and just did the ROP part
 Took a huge break because of vacations + work + laziness. This was fun because
 it was a simple bug, but a bit difficult to exploit. A nice way to get back to
 pwning.
+
+8/2/2017 - plaidctf 2017 - ezhp
+Another break due to defcon/etc. Maybe I'll put some writeups of what I did at
+DEFCON up at some point but for now back to generic pwnables.
