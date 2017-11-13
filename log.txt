@@ -31,3 +31,11 @@ DEFCON up at some point but for now back to generic pwnables.
 
 9/15-17/2017 - csaw quals!
 did some challenges
+
+flare-on 2017 happened at some point
+
+11/3-11/5 - HITCON quals
+solved a challenge to practice for CSAW
+
+11/9-11/11 - CSAW finals
+solved a couple things
