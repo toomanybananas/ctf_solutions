@@ -44,3 +44,5 @@ some things happened here
 
 3/29 - SwampCTF 2018
 solved a couple things
+
+4/8 - UIUCTF, SunshineCTF, plus defcon pillpusher solution
