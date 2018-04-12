@@ -46,3 +46,5 @@ some things happened here
 solved a couple things
 
 4/8 - UIUCTF, SunshineCTF, plus defcon pillpusher solution
+
+4/11 - kappa

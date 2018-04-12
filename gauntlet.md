@@ -82,7 +82,7 @@ Here are some resources to help you out as you go through the gauntlet.
 | GITS 2014             | [ti-1337](https://github.com/aidielse/pwning/tree/master/average/ti-1337)                 | UNSOLVED      |
 | hack.lu 2014          | [holy-moses](https://github.com/aidielse/pwning/tree/master/average/holy-moses)           | UNSOLVED      |
 | hack.lu 2014          | [the-union](https://github.com/aidielse/pwning/tree/master/average/the-union)             | UNSOLVED      |
-| PlaidCTF 2014         | [kappa](https://github.com/aidielse/pwning/tree/master/average/kappa)                     | UNSOLVED      |
+| PlaidCTF 2014         | [kappa](https://github.com/aidielse/pwning/tree/master/average/kappa)                     | __SOLVED__ |
 | pwnable.kr            | unexploitable                                                                             | UNSOLVED    |
 
 ### Difficulty: Respectable
